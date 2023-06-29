@@ -1,0 +1,25 @@
+#about-me{
+background-color: rgb(196, 120, 164);
+}
+   #about-title {
+     color:rgb(247, 241, 247);
+   
+    }
+
+
+
+    
+    #title-f{
+         color:brown;
+
+     }
+     table{
+        border: 1px solid blue;
+        border-collapse: collapse;
+     }
+     td{ 
+        border:1px solid blue;
+     }
+      th{
+        border:1px solid blue; 
+        padding: 9px;}
